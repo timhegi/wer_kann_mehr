@@ -10,6 +10,7 @@ import 'package:wer_kann_mehr/services/challengeService.dart';
 import 'package:wer_kann_mehr/services/variantenService.dart';
 
 void main() async {
+  //Test123
   VariantenService variantenService = VariantenService();
   ChallengeService challengeService = ChallengeService();
   WidgetsFlutterBinding.ensureInitialized();
